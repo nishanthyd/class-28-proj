@@ -1,1 +1,1 @@
-# class-28-proj
+# CP-2
